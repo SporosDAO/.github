@@ -1,4 +1,3 @@
-![SporosDAO Logo](https://pbs.twimg.com/profile_images/1526561379435565056/7XUt8gF_.jpg)
 
 # SporosDAO 🌱
 
