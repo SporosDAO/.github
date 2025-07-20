@@ -72,6 +72,6 @@ From our latest thread on July 19, 2025:
 
 1. **Explore** 🔍: Dive into our repos to see what we’re building.
 2. **Contribute** 💻: Check our [Contributing Guide](https://github.com/SporosDAO/sweat-token?tab=readme-ov-file#contributing) to join the mission.
-3. **Connect** 📢: Reach out via [X](https://x.com/sporosdao).
+3. **Connect** 📢: Reach out via [X](https://x.com/sporosdao) or [Discord](https://discord.gg/eu9fETXFS6).
 
 Join us in revolutionizing startup ecosystems! 🚀
