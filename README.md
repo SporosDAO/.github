@@ -1,4 +1,4 @@
 # .github
 org level content
 
-See [SporosDAO Org Profuke REAME](profile/README.md)
+See [SporosDAO Org profile REAME](profile/README.md)
